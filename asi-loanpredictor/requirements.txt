@@ -7,3 +7,8 @@ notebook
 scikit-learn~=1.5.1
 seaborn~=0.12.1
 setuptools; python_version >= "3.12"
+kedro>=0.18.14
+pandas>=1.4.0
+scikit-learn>=1.1.0
+imbalanced-learn>=0.10.0
+pyarrow  # for Parquet support
